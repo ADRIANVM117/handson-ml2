@@ -1,4 +1,4 @@
-Machine Learning Notebooks
+Machine Learning Notebooks - modified by radianvm
 ==========================
 
 This project aims at teaching you the fundamentals of Machine Learning in
